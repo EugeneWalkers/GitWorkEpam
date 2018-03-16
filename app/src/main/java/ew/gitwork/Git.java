@@ -5,7 +5,7 @@ package ew.gitwork;
  */
 
 public class Git {
-    String information = "This is the GitClone project!"
+    String information = "This is the GitClone project!";
     public void doSmth(){
         System.out.println(information.length());
     }

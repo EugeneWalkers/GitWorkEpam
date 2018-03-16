@@ -5,9 +5,8 @@ package ew.gitwork;
  */
 
 public class Git {
-    String data = "Hello world";
-    public void doSmth(){
-        StringBuilder dataBuilder = new StringBuilder(data);
-        dataBuilder.append("!");
+    String information = "Hello world";
+    public void doSmth() {
+        System.out.println(information.length());
     }
 }

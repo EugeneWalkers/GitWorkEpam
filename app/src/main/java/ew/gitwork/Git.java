@@ -6,8 +6,9 @@ package ew.gitwork;
 
 public class Git {
     String information = "This is the GitClone project!";
-    String feature = "Feature";
+    String feature = "noInformation";
     public void doSmth(){
         System.out.println(feature.length());
+	
     }
 }
